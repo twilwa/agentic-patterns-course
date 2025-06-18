@@ -329,3 +329,5 @@ chatgpt_experiment.py
 chatgpt_battery.py
 chatgpt_battery_classes.py
 *.diff
+# SpecStory explanation file
+.specstory/.what-is-this.md
